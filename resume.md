@@ -1,5 +1,5 @@
 ---
-title: Brian Cupp - Principle Software Engineer
+title: Brian Cupp
 ---
 
 ###### [ bricupp@gmail.com ]
