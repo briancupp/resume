@@ -1,10 +1,10 @@
 ---
-title: Brian Cupp
+title: Brian Cupp - Principle Software Engineer
 ---
 
-###### [ [Github](https://www.github.com/briancupp) ] - [ bricupp@gmail.com ]
+###### [ bricupp@gmail.com ]
 
-#### Experienced front-end engineer; working in modern and legacy frameworks, delivering high-quality code and experiences to desktop and mobile devices.
+#### Experienced front-end engineer; working in modern and legacy frameworks, delivering high-quality experiences to desktop and mobile devices.
 
 ## Skills
 
@@ -17,6 +17,7 @@ title: Brian Cupp
 `Localization`
 `Mobile`
 `Problem Solving`
+`Web Sockets`
 `Web Workers`
 
 **Languages**: Javascript, Typescript  
