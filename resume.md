@@ -4,18 +4,20 @@ title: Brian Cupp
 
 ###### [ [Github](https://www.github.com/briancupp) ] - [ bricupp@gmail.com ]
 
-#### Experienced project manager with a track record of delivering high-quality results on time and within budget.
+#### Experienced front-end engineer; working in modern and legacy frameworks, delivering high-quality code and experiences to desktop and mobile devices.
 
 ## Skills
 
 `Accessibility`
-`Agile methodology`
+`Agile Methodology`
 `Communication`
 `Git/Github`
 `Jenkins`
 `Jira`
 `Localization`
-`Problem solving`
+`Mobile`
+`Problem Solving`
+`Web Workers`
 
 **Languages**: Javascript, Typescript  
 **Libraries**: React, Backbone  
