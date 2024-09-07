@@ -1,44 +1,63 @@
 ---
-title: Viktor Vaughn
+title: Brian Cupp
 ---
-###### [ [Github](https://www.github.com/siph) ] - [ [Blog](https://www.dev.to/siph) ] - [ v.vaughn@gmail.com ] - [ 814 332 8091 ]
+
+###### [ [Github](https://www.github.com/briancupp) ] - [ bricupp@gmail.com ]
+
 #### Experienced project manager with a track record of delivering high-quality results on time and within budget.
 
 ## Skills
-```Project management```
-```Team leadership```
-```Budget management```
-```Communication```
-```Problem-solving```
-```Agile methodology```
-```Microsoft Project```
-```JIRA```
-```SQL```
 
-**Languages**: Java, Kotlin, Rust  
-**Databases**: Redis, Postgres, Neo4j  
-**Tools**: Spring, Kubernetes, Github-Actions, Linux, Nix, Git, Rest, GraphQL
+`Accessibility`
+`Agile methodology`
+`Communication`
+`Git/Github`
+`Jenkins`
+`Jira`
+`Localization`
+`Problem solving`
+
+**Languages**: Javascript, Typescript  
+**Libraries**: React, Backbone  
+**Tools**: Vite/Rollup, Webpack, Grunt, Gulp
 
 ## Experience
-### Jamba Juice
-##### Senior Project Manager, January 2015 - Present
-- Led cross-functional teams in the successful delivery of multiple software projects, including a major website redesign and a mobile app launch.
-- Managed budgets of up to $5 million and ensured projects were delivered on time and within scope.
-- Coordinated communication with stakeholders, including executive leadership and development teams.
 
-### PF Chang's
-##### Project Manager, February 2011 - December 2014
-- Managed a portfolio of software and hardware projects, including a new CRM implementation and a network infrastructure upgrade.
-- Worked closely with business analysts and technical teams to ensure project requirements were met and delivered on schedule.
-- Maintained project documentation and provided regular status updates to executive leadership.
+### Shutterfly Inc.
 
+##### Principle Software Engineer, March 2021 - Present
 
-## Projects
-**[*resume-md*](http://www.github.com/siph/resume-md)**
+- Technical Lead
 
-Build your resume using markdown and have it generated as a pdf and html.
+  - Designed and developed the modern Upload experience for the (mobile) web
+  - Lead and performed code reviews
+  - Worked with PM/UX to prioritize and design features and needs of the clients
+  - Continued to support features and updates to existing/legacy projects
+
+- Team Lead
+  - Mentored junior members of the team, providing room for them to grow
+  - Mentored interns, helping to provide real world business experience for their resumes
+  - Scrum Master responsibilities; leading stand-ups and other meetings
+
+##### Senior Web Engineer II, April 2015 - March 2021
+
+- Maintain and improve Photos Management Platform
+- Uploader
+  - Local files, social imports (Facebook, Google, and Instagram)
+- Timeline
+  - DOM "windowing", rendering only the photos that should be in view
+
+### Godaddy.com
+
+##### Software Developer, November 2008 - April 2015
+
+- Developed and maintained multiple products in the productivity suite, with a focus on the web-based email product.
+  - Full Stack development; PHP and Javascript
+- Helped with initial development and release of the Office 365 Control Panel.
+- Improved existing and added additional monitoring scripts/alerts to help maintain healthy servers and applications across the productivity suite.
 
 ## Education
 
-### Reno University
-**Degree:** Bachelor of Science in Computer Science | **Years Attended:** 2016-2019 | **City, State:** Reno, NV
+### University of Advancing Technology
+
+**Years Attended:** 2004-2006 | **City, State:** Phoenix, AZ
