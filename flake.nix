@@ -26,6 +26,7 @@
           pandoc resume.md \
           -t html -f markdown \
           -c style.css --self-contained \
+          --section-divs=true --email-obfuscation=references \
           -o resume.html
 
           wkhtmltopdf --enable-local-file-access \
