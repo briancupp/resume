@@ -25,8 +25,8 @@
         buildPhase = ''
           pandoc resume.md \
           -t html -f markdown \
-          -c style.css --self-contained \
-          --section-divs=true --email-obfuscation=references \
+          -c style.css --embed-resources --standalone \
+          --section-divs --email-obfuscation=references \
           -o resume.html
 
           wkhtmltopdf --enable-local-file-access \
@@ -64,4 +64,3 @@
         };
       });
 }
-

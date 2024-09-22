@@ -1,12 +1,22 @@
 ---
 title: Brian Cupp
+subtitle: Principle Software Engineer
 ---
 
-###### [ bricupp@gmail.com ] {#contact}
+## Contact {#contact}
+- Chandler, AZ
+- [bricupp@gmail.com](mailto:bricupp@gmail.com)
+- [linkedin.com/in/bcupp](https://www.linkedin.com/in/bcupp/)
 
-#### Experienced front-end engineer; working in modern and legacy frameworks, delivering high-quality web experiences to desktop and mobile devices. {#summary}
+## {#summary}
+> Experienced front-end engineer; working in modern and legacy frameworks, delivering high-quality web experiences to desktop and mobile devices.
 
 ## Skills {#skills}
+
+| **Languages**: Javascript, Typescript
+| **Libraries**: React, Backbone
+| **Tools**: Vite/Rollup, Webpack, Grunt, Gulp
+| **Unit Tests**: Jest, Jasmine
 
 `Accessibility`
 `Agile Methodology`
@@ -21,30 +31,24 @@ title: Brian Cupp
 `Web Sockets`
 `Web Workers`
 
-**Languages**: Javascript, Typescript  
-**Libraries**: React, Backbone  
-**Tools**: Vite/Rollup, Webpack, Grunt, Gulp  
-**Unit Tests**: Jest, Jasmine
-
 ## Experience {#experience}
 
 ### Shutterfly Inc. {.sfly}
 
-##### Principle Software Engineer, March 2021 - Present {.title1}
+##### [Principle Software Engineer]{.title} [March 2021 - Present]{.date} {.position}
 
-- Technical Lead
+###### Technical Lead
+- Designed and developed the modern Upload experience for the (mobile) web
+- Lead and performed code reviews
+- Worked with PM/UX to prioritize and design features and needs of the clients
+- Continued to support features and updates to existing/legacy projects
 
-  - Designed and developed the modern Upload experience for the (mobile) web
-  - Lead and performed code reviews
-  - Worked with PM/UX to prioritize and design features and needs of the clients
-  - Continued to support features and updates to existing/legacy projects
+###### Team Lead
+- Mentored junior members of the team, providing room for them to grow
+- Mentored interns, helping to provide real world business experience for their resumes
+- Scrum Master responsibilities; leading stand-ups and other meetings
 
-- Team Lead
-  - Mentored junior members of the team, providing room for them to grow
-  - Mentored interns, helping to provide real world business experience for their resumes
-  - Scrum Master responsibilities; leading stand-ups and other meetings
-
-##### Senior Web Engineer II, April 2015 - March 2021 {.title2}
+##### [Senior Web Engineer II]{.title} [April 2015 - March 2021]{.date} {.position}
 
 - Maintain and improve Photos Management Platform
 - Uploader
@@ -54,7 +58,7 @@ title: Brian Cupp
 
 ### Godaddy.com {.gd}
 
-##### Software Developer, November 2008 - April 2015 {.title1}
+##### [Software Developer]{.title} [November 2008 - April 2015]{.date} {.position}
 
 - Developed and maintained multiple products in the productivity suite, with a focus on the web-based email product.
   - Full Stack development; PHP and Javascript
@@ -63,6 +67,7 @@ title: Brian Cupp
 
 ## Education {#education}
 
-### University of Advancing Technology
+### University of Advancing Technology {.uat}
 
-**Years Attended:** 2004-2006 | **City, State:** Phoenix, AZ
+| **Attended:** 2004-2006
+| **Location:** Phoenix, AZ
